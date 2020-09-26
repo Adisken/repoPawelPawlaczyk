@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\PawlaczykPawel\PawlaczykPawel\bin\Debug\PawlaczykPawel.exe.config
+c:\users\student\documents\visual studio 2015\Projects\PawlaczykPawel\PawlaczykPawel\bin\Debug\PawlaczykPawel.exe
+c:\users\student\documents\visual studio 2015\Projects\PawlaczykPawel\PawlaczykPawel\bin\Debug\PawlaczykPawel.pdb
+c:\users\student\documents\visual studio 2015\Projects\PawlaczykPawel\PawlaczykPawel\obj\Debug\PawlaczykPawel.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\PawlaczykPawel\PawlaczykPawel\obj\Debug\PawlaczykPawel.exe
+c:\users\student\documents\visual studio 2015\Projects\PawlaczykPawel\PawlaczykPawel\obj\Debug\PawlaczykPawel.pdb
